@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = /home/sam/Documents/HS-BRS/SDP/SDP/catkin_ws/build/leg_tracke
 include CMakeFiles/_leg_tracker_generate_messages_check_deps_LegArray.dir/progress.make
 
 CMakeFiles/_leg_tracker_generate_messages_check_deps_LegArray:
-	catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py leg_tracker /home/sam/Documents/HS-BRS/SDP/SDP/catkin_ws/src/leg_tracker/msg/LegArray.msg leg_tracker/Leg:std_msgs/Header:geometry_msgs/Point
+	catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py leg_tracker /home/sam/Documents/HS-BRS/SDP/SDP/catkin_ws/src/leg_tracker/msg/LegArray.msg geometry_msgs/Point:leg_tracker/Leg:std_msgs/Header
 
 _leg_tracker_generate_messages_check_deps_LegArray: CMakeFiles/_leg_tracker_generate_messages_check_deps_LegArray
 _leg_tracker_generate_messages_check_deps_LegArray: CMakeFiles/_leg_tracker_generate_messages_check_deps_LegArray.dir/build.make
